@@ -1,0 +1,10 @@
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.deps.json
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.dll
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.pdb
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.csproj.AssemblyReference.cache
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.AssemblyInfoInputs.cache
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.AssemblyInfo.cs
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.csproj.CoreCompileInputs.cache
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.dll
+H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.pdb
