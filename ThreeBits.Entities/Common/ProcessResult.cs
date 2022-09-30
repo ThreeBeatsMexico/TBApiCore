@@ -6,10 +6,27 @@ using System.Threading.Tasks;
 
 namespace ThreeBits.Entities.Common
 {
-   public class ProcessResult<T>
+   public class ProcessResult
     {
-        public bool flag { get; set; } = true;
-        public string errorMessage { get; set; }
-        public T data { get; set; }
+        private bool bFLAG;
+        public bool flag
+        {
+            get { return bFLAG; }
+            set { bFLAG = value; }
+        }
+
+        private string sERRORMESSAGE;
+        public string errorMessage
+        {
+            get { return sERRORMESSAGE; }
+            set { sERRORMESSAGE = value; }
+        }
+
+        private object sData;
+        public object data
+        {
+            get { return sData; }
+            set { sData = value; }
+        }
     }
 }

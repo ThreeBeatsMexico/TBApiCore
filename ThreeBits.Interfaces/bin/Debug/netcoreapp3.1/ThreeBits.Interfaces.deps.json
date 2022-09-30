@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ThreeBits.Interfaces/1.0.0": {
+        "dependencies": {
+          "ThreeBits.Entities": "1.0.0"
+        },
         "runtime": {
           "ThreeBits.Interfaces.dll": {}
+        }
+      },
+      "ThreeBits.Entities/1.0.0": {
+        "runtime": {
+          "ThreeBits.Entities.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ThreeBits.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeBits.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

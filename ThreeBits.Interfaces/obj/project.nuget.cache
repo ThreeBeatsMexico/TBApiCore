@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0Cu9YpKxoP9LrkYzucM1RnPTdUbjvWxDOMPWr5u+wrbJWIofEz7yhbWTXNTPCvYEcsrGyl00kKC0WtjjAAyS/g==",
+  "dgSpecHash": "hrjySmW/hYSnr3lm1o1qaB87Gj2n4MoCyss7vGFkhQk/gncApmCoV2/kicpnmyawTJy23rSDpSsXQevJBJIx4A==",
   "success": true,
-  "projectFilePath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52552\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\52552\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\52552\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,13 @@
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\bin\Debug\netcoreapp3.1\ThreeBits.Data.deps.json
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\bin\Debug\netcoreapp3.1\ThreeBits.Data.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\bin\Debug\netcoreapp3.1\ThreeBits.Data.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.csproj.AssemblyReference.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.AssemblyInfoInputs.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.AssemblyInfo.cs
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.csproj.CoreCompileInputs.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\bin\Debug\netcoreapp3.1\ThreeBits.Entities.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\bin\Debug\netcoreapp3.1\ThreeBits.Entities.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Data\obj\Debug\netcoreapp3.1\ThreeBits.Data.csproj.CopyComplete

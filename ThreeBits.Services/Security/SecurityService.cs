@@ -13,12 +13,7 @@ namespace ThreeBits.Services.Security
         public ProcessResult<Credential> Login(Credential input)
         {
             var respuesta = new ProcessResult<Credential>();
-
-            
-
-            //var re = Request;
-            //var headers = re.Headers;
-            //Login oLoginBr = new Login();
+            Login oLoginBr = new Login();
             try
             {
                

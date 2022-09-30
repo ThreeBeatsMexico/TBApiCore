@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Services\\ThreeBits.Services.csproj": {}
+    "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Services\\ThreeBits.Services.csproj": {}
   },
   "projects": {
-    "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj": {
+    "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
         "projectName": "ThreeBits.Entities",
-        "projectPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
-        "packagesPath": "C:\\Users\\JULIO CESAR\\.nuget\\packages\\",
-        "outputPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\obj\\",
+        "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
+        "packagesPath": "C:\\Users\\52552\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "H:\\JCAPPDATA\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\52552\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,35 +45,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj": {
+    "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj",
         "projectName": "ThreeBits.Interfaces",
-        "projectPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\JULIO CESAR\\.nuget\\packages\\",
-        "outputPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\obj\\",
+        "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\52552\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "H:\\JCAPPDATA\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\52552\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,8 +97,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj": {
-                "projectPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj"
+              "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj": {
+                "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj"
               }
             }
           }
@@ -113,35 +118,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Services\\ThreeBits.Services.csproj": {
+    "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Services\\ThreeBits.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Services\\ThreeBits.Services.csproj",
+        "projectUniqueName": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Services\\ThreeBits.Services.csproj",
         "projectName": "ThreeBits.Services",
-        "projectPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Services\\ThreeBits.Services.csproj",
-        "packagesPath": "C:\\Users\\JULIO CESAR\\.nuget\\packages\\",
-        "outputPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Services\\obj\\",
+        "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Services\\ThreeBits.Services.csproj",
+        "packagesPath": "C:\\Users\\52552\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "H:\\JCAPPDATA\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\52552\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,8 +170,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj": {
-                "projectPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj"
+              "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj"
               }
             }
           }
@@ -176,16 +191,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,3 +8,16 @@ H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\Thre
 H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.csproj.CoreCompileInputs.cache
 H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.dll
 H:\Projectos2022\ThreeBitsCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.deps.json
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Entities.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\bin\Debug\netcoreapp3.1\ThreeBits.Entities.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.csproj.AssemblyReference.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.AssemblyInfoInputs.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.AssemblyInfo.cs
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.csproj.CopyComplete
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Interfaces\obj\Debug\netcoreapp3.1\ThreeBits.Interfaces.pdb

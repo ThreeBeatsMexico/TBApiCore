@@ -1,0 +1,15 @@
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Services.deps.json
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Services.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Services.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Entities.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Interfaces.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\bin\Debug\netcoreapp3.1\ThreeBits.Entities.pdb
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.csproj.AssemblyReference.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.AssemblyInfoInputs.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.AssemblyInfo.cs
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.csproj.CoreCompileInputs.cache
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.csproj.CopyComplete
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.dll
+C:\Users\52552\Documents\GitHub\TBApiCore\ThreeBits.Services\obj\Debug\netcoreapp3.1\ThreeBits.Services.pdb

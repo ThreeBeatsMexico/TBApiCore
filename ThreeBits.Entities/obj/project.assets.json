@@ -8,26 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\JULIO CESAR\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\52552\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
       "projectName": "ThreeBits.Entities",
-      "projectPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
-      "packagesPath": "C:\\Users\\JULIO CESAR\\.nuget\\packages\\",
-      "outputPath": "H:\\Projectos2022\\ThreeBitsCore\\ThreeBits.Entities\\obj\\",
+      "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj",
+      "packagesPath": "C:\\Users\\52552\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "H:\\JCAPPDATA\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\52552\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,16 +51,31 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
