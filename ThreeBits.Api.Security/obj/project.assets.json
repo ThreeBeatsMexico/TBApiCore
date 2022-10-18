@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net6.0": {
       "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.22": {
         "type": "package",
         "dependencies": {
@@ -213,12 +213,12 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
             "related": ".pdb;.xml"
           }
         },
@@ -232,12 +232,12 @@
           "Swashbuckle.AspNetCore.Swagger": "6.2.3"
         },
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -245,12 +245,12 @@
       "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
             "related": ".pdb;.xml"
           }
         },
@@ -993,7 +993,7 @@
       },
       "ThreeBits.Entities/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/ThreeBits.Entities.dll": {}
         },
@@ -1003,7 +1003,7 @@
       },
       "ThreeBits.Interfaces/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "ThreeBits.Entities": "1.0.0"
         },
@@ -3900,7 +3900,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net6.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.22",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "System.IdentityModel.Tokens.Jwt >= 6.16.0",
@@ -3909,37 +3909,44 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\52552\\.nuget\\packages\\": {}
+    "C:\\Users\\juliocmartinezz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Api.Security\\ThreeBits.Api.Security.csproj",
+      "projectUniqueName": "C:\\GitLab\\TBApiCore\\ThreeBits.Api.Security\\ThreeBits.Api.Security.csproj",
       "projectName": "ThreeBits.Api.Security",
-      "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Api.Security\\ThreeBits.Api.Security.csproj",
-      "packagesPath": "C:\\Users\\52552\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Api.Security\\obj\\",
+      "projectPath": "C:\\GitLab\\TBApiCore\\ThreeBits.Api.Security\\ThreeBits.Api.Security.csproj",
+      "packagesPath": "C:\\Users\\juliocmartinezz\\.nuget\\packages\\",
+      "outputPath": "C:\\GitLab\\TBApiCore\\ThreeBits.Api.Security\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\52552\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juliocmartinezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj": {
-              "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj"
+            "C:\\GitLab\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj": {
+              "projectPath": "C:\\GitLab\\TBApiCore\\ThreeBits.Entities\\ThreeBits.Entities.csproj"
             },
-            "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\52552\\Documents\\GitHub\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj"
+            "C:\\GitLab\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj": {
+              "projectPath": "C:\\GitLab\\TBApiCore\\ThreeBits.Interfaces\\ThreeBits.Interfaces.csproj"
             }
           }
         }
@@ -3951,8 +3958,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
@@ -3978,24 +3985,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.29, 3.1.29]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4004,7 +3993,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

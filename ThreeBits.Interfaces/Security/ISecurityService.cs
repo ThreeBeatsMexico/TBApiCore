@@ -8,7 +8,7 @@ namespace ThreeBits.Interfaces.Security
 {
     public interface ISecurityService
     {
-        ProcessResult<Credential> Login(Credential input);
+        ProcessResult Login(Credential input);
 
 
     }

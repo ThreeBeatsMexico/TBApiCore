@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ThreeBits.Entities.Common
 {
-   public class ProcessResult
+    public class ProcessResult
     {
+
         private bool bFLAG;
         public bool flag
         {
@@ -28,5 +29,8 @@ namespace ThreeBits.Entities.Common
             get { return sData; }
             set { sData = value; }
         }
+
+
+
     }
 }

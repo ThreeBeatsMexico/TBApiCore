@@ -9,12 +9,17 @@ using ThreeBits.Business.User;
 using ThreeBits.Entities.Common;
 using ThreeBits.Entities.Security;
 using ThreeBits.Entities.User;
+using ThreeBits.Interfaces.Security;
 using ThreeBits.Shared;
 
 namespace ThreeBits.Business.Login
 {
    public class Login
     {
+        private readonly ISecurityDA _dataAccess;
+
+
+
         string sIdApp = ConfigurationManager.AppSettings["IdApp"].ToString();
         string sPasswordApp = ConfigurationManager.AppSettings["PasswordApp"].ToString();
         AplicacionBE oAppBE = new AplicacionBE();

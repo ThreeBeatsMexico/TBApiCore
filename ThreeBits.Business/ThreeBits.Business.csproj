@@ -1,12 +1,25 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.16.0" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ThreeBits.Data\ThreeBits.Data.csproj" />
     <ProjectReference Include="..\ThreeBits.Entities\ThreeBits.Entities.csproj" />
+    <ProjectReference Include="..\ThreeBits.Shared\ThreeBits.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PVLSECVB">
+      <HintPath>..\..\..\Users\juliocmartinezz\Desktop\Respaldo Julio Zamudio\Desktop\Escritorio\dlls\PVLSECVB.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

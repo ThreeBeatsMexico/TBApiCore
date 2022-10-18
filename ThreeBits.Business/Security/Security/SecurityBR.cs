@@ -6,11 +6,15 @@ using System.Text;
 using System.Threading.Tasks;
 using ThreeBits.Data.Security;
 using ThreeBits.Entities.Security;
+using ThreeBits.Interfaces.Security;
 
 namespace ThreeBits.Business.Security
 {
     public class SecurityBR
     {
+
+        private readonly ISecurityDA _dataAccess;
+
         public void checkPermisoMethServ(Int64 App, string sPasswordApp, string sMethodName, string sServiceName)
         {
             try
@@ -195,7 +199,7 @@ namespace ThreeBits.Business.Security
             {
                 SecurityDA Seguridad = new SecurityDA();
 
-                bool bExistUsr = checkApp(Aplicacion.DESCRIPCION.ToString().ToUpper());
+                bool bExistUsr = this.checkApp(Aplicacion.DESCRIPCION.ToString().ToUpper());
                 if (bExistUsr) throw new Exception("La Aplicacion ya existe.");
                 return Seguridad.addAplicacion(Aplicacion, App);
             }
@@ -492,7 +496,7 @@ namespace ThreeBits.Business.Security
             {
                 SecurityDA Seguridad = new SecurityDA();
 
-                return Seguridad.getAppInfoDat(xAppId);
+                return _dataAccess.getAppInfoDat(xAppId);
             }
             catch (Exception ex)
             {

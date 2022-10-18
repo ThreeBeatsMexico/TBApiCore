@@ -1,0 +1,5 @@
+C:\GitLab\TBApiCore\ThreeBits.Business\obj\Debug\net6.0\ThreeBits.Business.csproj.AssemblyReference.cache
+C:\GitLab\TBApiCore\ThreeBits.Business\obj\Debug\net6.0\ThreeBits.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitLab\TBApiCore\ThreeBits.Business\obj\Debug\net6.0\ThreeBits.Business.AssemblyInfoInputs.cache
+C:\GitLab\TBApiCore\ThreeBits.Business\obj\Debug\net6.0\ThreeBits.Business.AssemblyInfo.cs
+C:\GitLab\TBApiCore\ThreeBits.Business\obj\Debug\net6.0\ThreeBits.Business.csproj.CoreCompileInputs.cache
